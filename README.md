@@ -1,4 +1,4 @@
-## Hi, I'm Lukmannudin :wave:
+## Hi mateys, I'm Lukmannudin :wave:
 
 I love programming especially android development, currently, I am working as an Android Engineer in a startup engaged in online groceries. 
 
