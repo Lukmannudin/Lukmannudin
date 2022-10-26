@@ -2,7 +2,7 @@
 
 I love programming especially android development, currently, I am working as an Android Engineer in a startup engaged in online groceries. 
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@lord_lukman19)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=lord_lukman19)](https://holopin.io/@lord_lukman19)
 
 Reach me on <br />
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukmannudin/) 
